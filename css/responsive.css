@@ -1,0 +1,111 @@
+@media(max-width: 1199px){
+	.body3{
+		background-position: center;
+	}
+
+	.body3 .button{
+		font-size: 18px;
+		padding: 10px 40px;
+	}
+
+	.body6{
+		background-size: cover;
+	}
+
+	.body6-txt img{
+	    margin:  auto;
+	    padding-top: 40px;
+
+	}
+}
+
+
+@media(max-width: 991px){
+
+	nav ul li a{
+		font-size: 18px;
+		padding: 32px 18px;
+	}
+	.body1-txt h1{
+		font-size: 80px;
+	}
+
+	.body1-txt p{
+		font-size: 20px;
+	}
+
+	.body1-txt button{
+	   font-size: 18px;
+	   padding: 10px 40px;
+
+	}
+}
+
+
+
+@media(max-width: 767px){
+	.body3-txt h3{
+		font-size: 55px;
+	}
+}
+
+
+
+@media(max-width: 575px){
+
+	nav ul li a{
+		font-size: 10px;
+		padding: 20px 12px;
+	}
+
+	.body1-txt h1{
+		font-size: 60px;
+	}
+
+	.body2 .button{
+	   font-size: 18px;
+	   padding: 10px 40px;
+	   margin: 48px 0 50px;
+
+	}
+
+	.body3-txt h3{
+		font-size: 35px;
+	}
+
+	.body3 .button{
+		font-size: 10px;
+		padding: 10px 30px;
+	}
+
+	.body4{
+		background-position: left;
+	}
+
+	.body5 .button{
+	   font-size: 18px;
+	   padding: 10px 40px;
+
+	}
+
+
+	.body6-txt p{
+		font-size: 20px;
+	}
+
+
+	.body6-txt h5{
+		font-size: 20px;
+	}
+
+
+	.mail button{
+		font-size: 18px;
+		padding: 5px 20px;
+	}
+
+	.foot-txt ul{
+		display: block;
+	}
+
+}
